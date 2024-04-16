@@ -1,0 +1,181 @@
+{
+    "vi":{
+        "heading":"Cơ cấu Giải thưởng",
+    "highSchoolStudent":{
+        "heading":"Đối với học sinh THPT",
+        "description":[
+            {
+                "title":"Giải Nhất (1 giải)",
+                "content":" 20 triệu đồng kèm học bổng bán phần toàn khóa trị giá 50% học phí 4 năm đại học (trị giá khoảng 119,2 – 276,5 triệu/suất) cho bất kỳ ngành học nào tại SIU và giấy khen."
+            },
+            {
+                "title":"Giải Nhì (1 giải)",
+                "content":" 10 triệu đồng, kèm học bổng 100% học phí năm 1 (trị giá khoảng 46,4 triệu – 150,6 triệu/suất) cho bất kỳ ngành học nào tại SIU và giấy khen."
+            },
+            {
+                "title":"Giải Ba (1 giải)",
+                "content":" 5 triệu đồng kèm học bổng trị giá 50% học phí năm 1 (trị giá khoảng 23,2 triệu – 75,3 triệu/suất) cho bất kỳ ngành học nào tại SIU và giấy khen."
+            },
+            {
+                "title":"Giải khuyến khích (3 giải)",
+                "content":" mỗi giải 3 triệu đồng kèm học bổng trị giá 30% học phí năm 1 (trị giá khoảng 13,9 triệu – 45,2 triệu/suất) cho bất kỳ ngành học nào tại SIU và giấy khen."
+            },
+            {
+                "title":"Giải do khán giả bình chọn qua mạng xã hội (1 giải)",
+                "content":" 2 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải dành cho khán giả dự đoán (1 giải)",
+                "content":" 1 triệu đồng, dành cho khán giả bình chọn gần đúng nhất tác phẩm giành được giải nhất cuộc thi."
+            }
+        ],
+        "note":"Các thí sinh trong Top 10 vòng Sơ loại không đạt giải Nhất, Nhì, Ba, Khuyến khích: Quà lưu niệm và giấy chứng nhận tham gia cuộc thi."
+    },
+    "middleSchoolStudent":{
+        "heading":"Đối với học sinh THCS",
+        "description":[
+            {
+                "title":"Giải Nhất (1 giải)",
+                "content":" 20 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải Nhì (1 giải)",
+                "content":" 10 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải Ba (1 giải)",
+                "content":" 5 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải khuyến khích (3 giải)",
+                "content":" mỗi giải 3 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải do khán giả bình chọn qua mạng xã hội (1 giải)",
+                "content":" 2 triệu đồng và giấy khen."
+            },
+            {
+                "title":"Giải dành cho khán giả dự đoán (1 giải)",
+                "content":"  1 triệu đồng, dành cho khán giả bình chọn gần đúng nhất tác phẩm giành được giải nhất cuộc thi."
+            }
+        ],
+        "note":"Các thí sinh trong Top 10 vòng Sơ loại không đạt giải Nhất, Nhì, Ba, Khuyến khích: Quà lưu niệm và giấy chứng nhận tham gia cuộc thi."
+    },
+    "attention":{
+        "content":{
+            "heading":"Lưu ý",
+            "description":[
+                {
+                    "content":"1. Thí sinh đạt học bổng cuộc thi Vẽ tranh cùng AI cùng đạt học bổng khác thuộc Chương trình học bổng SIU 2024 sẽ nhận học bổng mức cao nhất, không đồng thời hưởng cùng lúc nhiều học bổng."
+                },
+                {
+                    "content":"2. Thí sinh sử dụng suất học bổng đạt được ngay trong năm tốt nghiệp THPT."
+                },
+                {
+                    "content":"3.  Học bổng không bao gồm:",
+                    "description":[
+                        "Các khoản phí như giáo trình, đồng phục, phí gửi xe và các phí khác phát sinh nếu có.",
+                        "Học bổng chỉ có giá trị khi sinh viên theo học hết khóa học tại Trường Đại học Quốc tế Sài Gòn. Nếu sinh viên không theo học tại trường vào bất kỳ thời điểm nào trong khóa học sinh viên phải hoàn trả toàn bộ giá trị học bổng đã được nhận.",
+                        "Sinh viên phải đạt học lực Khá trở lên cho các năm học tiếp theo trong toàn bộ khóa học đại học 4 năm tại SIU thì mới được tiếp tục hưởng chính sách học bổng này. Nếu sinh viên không đạt điểm theo quy định thì phải đóng học phí bình thường cho năm học tiếp theo.",
+                        "Tất cả các loại học bổng không được bảo lưu, không quy đổi tiền mặt và không được chuyển nhượng dưới mọi hình thức."
+                    ]
+                }
+            ]
+        },
+        "note":{
+            "title":"Hỗ trợ kinh phí đi lại",
+            "description":" đối với các thí sinh ngoài phạm vi TpHCM, nếu vào chung kết sẽ được hỗ trợ kinh phí đi lại."
+        }
+    }
+    },
+    "en":{
+        "heading":"Prizes pool",
+        "highSchoolStudent":{
+            "heading":"For High-school Students",
+            "description": [
+                {
+                  "title": "First Prize (1 prize)",
+                  "content": "VND 20 million along with a 50% scholarship for the entire course, valued at 4-year tuition fees (approximately VND 119.2 million – 276.5 million per slot) for any major at SIU and a certificate of merit."
+                },
+                {
+                  "title": "Second Prize (1 prize)",
+                  "content": "VND 10 million, along with a 100% scholarship for the first year, valued at 1-year tuition fees (approximately VND 46.4 million – 150.6 million per slot) for any major at SIU and a certificate of merit."
+                },
+                {
+                  "title": "Third Prize (1 prize)",
+                  "content": "VND 5 million along with a 50% scholarship for the first year, valued at 1-year tuition fees (approximately VND 23.2 million – 75.3 million per slot) for any major at SIU and a certificate of merit."
+                },
+                {
+                  "title": "Encouragement Prize (3 prizes)",
+                  "content": "Each prize includes VND 3 million along with a 30% scholarship for the first year, valued at 1-year tuition fees (approximately VND 13.9 million – 45.2 million per slot) for any major at SIU and a certificate of merit."
+                },
+                {
+                  "title": "Audience Choice Award via Social Media (1 prize)",
+                  "content": "VND 2 million and a certificate of merit."
+                },
+                {
+                  "title": "Prediction Award for the Audience (1 prize)",
+                  "content": "VND 1 million, awarded to the audience who votes most accurately for the artwork that wins the first prize in the competition."
+                }
+              ],
+        "note":"Contestants in the Top 10 of the Preliminary Round (who don't win the top prizes): Souvenir gifts, Certificate of participation in the competition."
+    },
+    "middleSchoolStudent":{
+        "heading":"For Secondary School Students",
+        "description": [
+            {
+              "title": "First Prize (1 prize)",
+              "content": "VND 20 million and a certificate of merit."
+            },
+            {
+              "title": "Second Prize (1 prize)",
+              "content": "VND 10 million and a certificate of merit."
+            },
+            {
+              "title": "Third Prize (1 prize)",
+              "content": "VND 5 million and a certificate of merit."
+            },
+            {
+              "title": "Encouragement Prize (3 prizes)",
+              "content": "Each prize includes VND 3 million and a certificate of merit."
+            },
+            {
+              "title": "Audience Choice Award via Social Media (1 prize)",
+              "content": "VND 2 million and a certificate of merit."
+            },
+            {
+              "title": "Prediction Award for the Audience (1 prize)",
+              "content": "VND 1 million, awarded to the audience who votes most accurately for the artwork that wins the first prize in the competition."
+            }
+          ],
+        "note":"Contestants in the Top 10 of the Preliminary Round (who don't win the top prizes): Souvenir gifts, Certificate of participation in the competition."
+    },
+
+        "attention": {
+          "content": {
+            "heading": "Note",
+            "description": [
+              {
+                "content": "1. Candidates who achieve scholarships in the AI Drawing Contest and other scholarships under the SIU 2024 Scholarship Program will receive the highest scholarship amount. Multiple scholarships cannot be enjoyed simultaneously."
+              },
+              {
+                "content": "2. Candidates must use the scholarship awarded immediately upon graduating from high school."
+              },
+              {
+                "content": "3. Scholarships do not cover",
+                "description": [
+                  "Fees such as textbooks, uniforms, parking fees, and other applicable fees.",
+                  "The scholarship is valid only when students complete the entire course at the Saigon International University. If a student does not attend the university at any point during the course, they must repay the full value of the received scholarship.",
+                  "Students must achieve at least a Good academic performance for the subsequent years throughout the entire 4-year undergraduate course at SIU to continue benefiting from this scholarship policy. If a student does not meet the required grades, they must pay regular tuition fees for the following academic year.",
+                  "All types of scholarships are non-transferable, non-refundable in cash, and cannot be transferred in any form."
+                ]
+              }
+            ]
+          },
+          "note": {
+            "title": "Travel Expenses Support",
+            "description": "For candidates outside Ho Chi Minh City, if they reach the final round, they will be supported with travel expenses."
+          }
+        }
+      }
+}

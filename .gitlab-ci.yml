@@ -1,0 +1,18 @@
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "deploy"
+
+
+stages:
+  - deploy
+
+build_rasa-server:
+  stage: deploy
+  image: docker:20.10.17
+  before_script:
+    - docker-compose down
+    - yarn
+    - docker rmi ailab_ai_painting_contest-nextjs
+  script:
+    - docker-compose up -d
+

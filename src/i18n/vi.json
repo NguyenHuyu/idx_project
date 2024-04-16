@@ -1,0 +1,268 @@
+{
+	"login_page":{
+		"title":"CUỘC THI VẼ TRANH CÙNG AI",
+		"heading":"Đăng nhập",
+		"sub_heading":"Chưa có tài khoản?",
+		"sub_heading_link":"Đăng kí ngay!",
+		"back_to_home":"Trở về trang chủ",
+		"metadata":{
+			"title": "Đăng nhập - Cuộc Thi Vẽ Tranh Cùng AI",
+			"description": "Cuộc Thi Vẽ Tranh Cùng AI - AI Painting Contest"
+		}
+	},
+	"register_page":{
+		"title":"CUỘC THI VẼ TRANH CÙNG AI",
+		"heading":"Đăng kí",
+		"fullname":"Họ tên",
+		"email":"Email",
+		"dob":"Ngày sinh",
+		"phone":"Số điện thoại",
+		"school":"Trường học",
+		"classname":"Lớp học",
+		"province":"Tỉnh thành",
+		"password":"Mật khẩu",
+		"confirm_password":"Xác nhận mật khẩu",
+		"sub_heading":"Đã có tài khoản?",
+		"sub_heading_link":"Đăng nhập ngay!",
+		"back_to_home":"Trở về trang chủ",
+		"metadata":{
+			"title": "Đăng kí - Cuộc Thi Vẽ Tranh Cùng AI",
+			"description": "Cuộc Thi Vẽ Tranh Cùng AI - AI Painting Contest"
+		}
+	},
+	"home":{
+		"title":"Trang chủ | Cuộc Thi Vẽ Tranh Cùng AI"
+	},
+	"header":{
+		"name": "CUỘC THI VẼ TRANH CÙNG AI"
+	},
+	"footer":{
+		"name": "CUỘC THI VẼ TRANH CÙNG AI",
+		"content_name":"Trường Đại học Tư thục Quốc tế Sài Gòn",
+		"content_address":"8C - 18 Tống Hữu Định, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+		"home": "Trang chủ",
+		"judging_panel": "Ban giám khảo",
+		"competition_rules": "Thể lệ cuộc thi",
+		"submission_guidelines": "Hướng dẫn nộp bài",
+		"registration_guidelines":"Hướng dẫn đăng kí",
+		"contact": "Liên hệ",
+		"contact_us":"Liên hệ",
+		"contact_us_time":"Từ 7:00 - 17:00 (từ thứ 2 đến thứ 7) (GMT +7)",
+		"contact_us_phone":"(+84)768471589",
+		"contact_us_email":"aiart@siu.edu.vn",
+		"contact_us_fb":"Fanpage - SIU AILab",
+		"copyright":"Bản quyền © 2023 SIU. Đã đăng ký bản quyền."
+	},
+	"navbar" :{
+		"login": "Đăng nhập",
+		"logout": "Đăng xuất",
+		"register": "Đăng kí"
+	},
+	"navbar_item":{
+		"home": "Trang chủ",
+		"judging_panel": "Ban giám khảo",
+		"competition_rules": "Thể lệ cuộc thi",
+		"guidelines": "Hướng dẫn",
+		"submission_guidelines": "Hướng dẫn nộp bài",
+		"registration_guidelines":"Hướng dẫn đăng kí",
+		"login": "Đăng nhập",
+		"contact": "Liên hệ",
+		"categories":"Danh mục"
+	},
+	"section1":{
+		"heading":"Cuộc thi vẽ tranh cùng AI",
+		"content":"Nhằm tạo sân chơi học thuật lành mạnh, bổ ích dành cho học sinh yêu thích công nghệ, muốn thử thách bản thân và phát triển các kỹ năng như giải quyết vấn đề, làm việc nhóm và sáng tạo thông qua việc tìm hiểu và sử dụng các công cụ Trí tuệ Nhân tạo (Artificial Intelligence - AI), trường Đại học Quốc tế Sài Gòn tổ chức cuộc thi Vẽ tranh cùng AI mùa đầu tiên!"
+	},
+	"section2":{
+		"heading":"Lần đầu tiên, một cuộc thi vẽ cùng AI dành riêng cho học sinh Trung học trên cả nước."
+	},
+	"section3":{
+		"heading_title": "Cơ cấu giải thưởng",
+		"item1":{
+			"title":"1 GIẢI NHẤT",
+			"vnd":"5 TRIỆU ĐỒNG",
+			"content":"HỌC BỔNG SIU + GIẤY KHEN"
+		},
+		"item2":{
+			"title":"1 GIẢI NHÌ",
+			"vnd":"3 TRIỆU ĐỒNG",
+			"content":"HỌC BỔNG SIU + GIẤY KHEN"
+		},
+		"item3":{
+			"title":"3 GIẢI BA",
+			"vnd":"1 TRIỆU ĐỒNG",
+			"content":"HỌC BỔNG SIU + GIẤY KHEN"
+		},
+		"item4":{
+			"title":"5 GIẢI KHUYẾN KHÍCH",
+			"vnd":"500 NGHÌN ĐỒNG",
+			"content":"GIẤY KHEN"
+		},
+		"item5":{
+			"title":"3 GIẢI BA",
+			"vnd":"1 TRIỆU ĐỒNG",
+			"content":"HỌC BỔNG SIU + GIẤY KHEN"
+		},
+		"item6":{
+			"title":"1 GIẢI BÌNH CHỌN",
+			"vnd":"1 TRIỆU ĐỒNG",
+			"content":"GIẤY KHEN"
+		},
+		"heading":"GIẤY CHỨNG NHẬN THAM GIA CUỘC THI CHO TOP 10 MỖI BẢNG DỰ THI"
+	},
+	"section4":{
+		"heading":"Hình thức đăng ký",
+		"content":"Để tham gia cuộc thi, thí sinh đăng ký tài khoản ",
+		"content_link":"tại đây.",
+		"content2":"Mọi thắc mắc vui lòng gửi email về địa chỉ aiart@siu.edu.vn",
+		"heading_2":"Đối tượng dự thi",
+		"content3":[
+			"Bảng A: Học sinh Trung Học Phổ Thông trên cả nước.",
+			"Bảng B: Học sinh Trung Học Cơ Sở trên cả nước"
+		]
+	},
+	"section5":{
+		"item1":{
+			"time":"27/12/2023",
+			"content": "Thành lập ban chức năng"
+		},
+		"item2":{
+			"time":"27/12 - 12/01/2024",
+			"content": "Chuẩn bị cho cuộc thi"
+		},
+		"item3":{
+			"time":"15/01/2024",
+			"content": "Công bố cuộc thi"
+		},
+		"item4":{
+			"time":"Từ ngày ra thông báo đến hết ngày 31/03/2024",
+			"content": "Đăng ký thi"
+		},
+		"item5":{
+			"time":"15/04/2024",
+			"content": "Công bố ban giám khảo"
+		},
+		"item6":{
+			"time":"Từ ngày 15/01/2024 đến hết cuộc thi",
+			"content": "Truyền thông rộng rãi cuộc thi"
+		},
+		"item7":{
+			"time":"02/04 - 20/04/2024",
+			"content": "Huấn luyện thí sinh"
+		},
+		"item8":{
+			"time":"20/04 -29/04/2024",
+			"content": "Nộp bài vòng sơ loại"
+		},
+		"item9":{
+			"time":"30/04 - 05/05/2024",
+			"content": "Bình chọn tác phẩm"
+		},
+		"item10":{
+			"time":"30/04 - 05/05/2024",
+			"content": "Chấm thi trực tuyến vòng sơ"
+		},
+		"item11":{
+			"time":"11/05/2024 (Thứ 7)",
+			"content": "BGK họp thống nhất kết quả vòng sơ loại"
+		},
+		"item12":{
+			"time":"14/05/2024",
+			"content": "Công bố KQ vòng sơ loại "
+		},
+		"item13":{
+			"time":"26/05/2024 (Chủ Nhật)",
+			"content": "Thi vòng CK"
+		},
+		"item14":{
+			"time":"31/5/2024 (Thứ 6)",
+			"content": "Triển lãm tranh"
+		},
+		"heading": "Timeline cuộc thi"
+	},
+	"section6":{
+		"heading":"Về trường Đại học Quốc tế Sài Gòn",
+		"content1":"Trường Đại học Tư thục Quốc tế Sài Gòn (SIU) được thành lập theo quyết định của Thủ tướng Chính phủ năm 2007, SIU là thành viên các tổ chức kiểm định chất lượng giáo dục hàng đầu thế giới của Hoa Kỳ: Hội đồng kiểm định quốc tế các trường ĐH đào tạo ngành Kinh doanh (International Accreditation Council for Business Education ⁃ IACBE), Hiệp hội phát triển giảng dạy doanh thương bậc đại học (Association to Advance Collegiate Schools of Business ⁃ AACSB); được công nhận đạt kiểm định quốc tế khối ngành Kinh doanh của IACBE, đạt kiểm định cấp cơ sở giáo dục và 2 khối ngành Khoa học máy tính, Ngôn ngữ Anh theo bộ tiêu chuẩn của Bộ Giáo dục & Đào tạo.",
+		"content2":"SIU có tầm nhìn “hướng đến là trường đại học quốc tế hàng đầu Việt Nam theo xu hướng giáo dục toàn cầu” do đó nhà trường luôn coi trọng việc thúc đẩy quan hệ hợp tác với các trường đại học danh tiếng của thế giới, hiện nay SIU đang có quan hệ hợp tác với các trường như Suffolk University ⁃ Boston ⁃ Hoa Kỳ, Truman State University ⁃ Missouri ⁃ Hoa Kỳ, Ritsumeikan University và Asia Pacific University ⁃ Nhật Bản, Buckinghamshire New University ⁃ Anh Quốc, Huddersfield University ⁃ Anh Quốc, Dankook University ⁃ Hàn Quốc…"
+	},
+	"contact_page":{
+		"title":"Liên hệ | Cuộc Thi Vẽ Tranh Cùng AI",
+		"heading":"THÔNG TIN LIÊN HỆ"
+	},
+	"judging_panel_page":{
+		"title":"Ban giám giảo | Cuộc Thi Vẽ Tranh Cùng AI",
+		"heading":"BAN GIÁM KHẢO"
+	},
+	"register_guidelines_page":{
+		"metadata":{
+			"title":"Hướng dẫn đăng kí | Cuộc Thi Vẽ Tranh Cùng AI",
+		"description":"Hướng dẫn đăng kí - Cuộc Thi Vẽ Tranh Cùng AI"
+		},
+		"h1":"HƯỚNG DẪN ĐĂNG KÍ",
+		"step1": {
+			"sub": "Để đăng kí tài khoản tham gia thi “Vẽ Tranh Cùng AI” ta cần thực hiện theo các bước sau:",
+			"content": [
+				{
+					"link":"Bước 1: Truy cập vào trang web cuộc thi",
+					"sub_link":"Cuộc Thi Vẽ Tranh Cùng AI"
+				},
+				{
+					"link":"Bước 2: Chọn vào nút “Đăng kí” trên trang web như Hình 1."
+				}
+			],
+			"image": "GL1",
+			"sub_image": "Hình 1. Đăng kí tài khoản"
+		  },
+		  "step2": {
+			"content": [
+				"Bước 3: Sau khi hoàn thành Bước 2 một form đăng kí sẽ xuất hiện, chúng ta sẽ nhập thông tin cần thiết và chọn vào nút “Đăng kí” như Hình 2 để kết thúc việc đăng ký."
+			],
+			"image": "GL2",
+			"sub_image": "Hình 2. Điền thông tin để đăng kí tài khoản"
+		  },
+		  "step3": {
+			"content": [
+				"Bước 4: Sau khi đăng kí thành công, các bạn tiến hành đăng nhập để xác nhận đăng kí thành công bằng các nhấn vào nút “Login” như Hình 3."
+			],
+			"image": "GL3",
+			"sub_image": "Hình 3. Đăng nhập tài khoản"
+		  }
+	},
+	"submission_guidelines_page":{
+		"metadata":{
+			"title":"Hướng dẫn nộp bài | Cuộc Thi Vẽ Tranh Cùng AI",
+			"description":"Hướng dẫn nộp bài  - Cuộc Thi Vẽ Tranh Cùng AI"
+		},
+		"h1":"HƯỚNG DẪN NỘP BÀI",
+		"step1": {
+			"content": [
+			  "Bước 1: Truy cập vào website và đăng nhập nhập tài khoản bằng cách nhấn vào nút “Đăng nhập” như Hình 1."
+			],
+			"sub_image": "Hình 1. Đăng nhập tài khoản"
+		  },
+		  "step2": {
+			"content": [
+				"Bước 2: Nhấn vào nút “Dashboard” sau đó chọn “Nộp bài” để hiển thị giao diện nộp bài như Hình 2."
+			],
+			"sub_image": "Hình 2. Giao diện nộp bài"
+		  },
+		  "step3": {
+			"content": [
+				"Bước 3: Chọn nút “Nộp bài mới” (Hình 2) để tiến hành nộp bài của mình. Sau khi nhấn vào nút, giao diện nộp bài sẽ hiển thị như Hình 3."
+			],
+			"sub_image": "Hình 3. Giao diện nộp bài"
+		  },
+		  "step4": {
+			"content": [
+				"Bước 4: Tại giao diện nộp bài, thí sinh tiến hành nhập “Nội dung” và “Prompt” của tác phẩm và đồng thời upload tệp ảnh của bức tranh lên website. Sau các thao tác trên, thí sinh chọn nút “Submit” để nộp bài thi."
+			],
+			"sub_image": "Hình 4. Thông tin nộp bài"
+		  },
+		  "step5": {
+			"content": [
+				"Bước 5: Sau khi nộp bài, giao diện nộp bài của website sẽ chuyển sang như Hình 5."
+			],
+			"sub_image": "Hình 5. Giao diện sau khi nộp bài."
+		  }
+	}
+}

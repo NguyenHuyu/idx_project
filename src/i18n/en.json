@@ -1,0 +1,273 @@
+{
+	"login_page":{
+		"title":"DRAWING WITH AI",
+		"heading":"Login",
+		"sub_heading":"Don't have an account yet?",
+		"sub_heading_link":"Register here",
+		"back_to_home":"Back to home",
+		"metadata":{
+			"title": "Login | DRAWING WITH AI",
+			"description": "DRAWING WITH AI"
+		}
+	},
+	"register_page":{
+		"title":"DRAWING WITH AI",
+		"heading":"Register",
+		"fullname":"Full name",
+		"email":"Email",
+		"dob":"Date of birth",
+		"phone":"Phone number",
+		"school":"School",
+		"classname":"Class name",
+		"province":"Province",
+		"password":"Password",
+		"confirm_password":"Confirm password",
+		"sub_heading":"Already have an account?",
+		"sub_heading_link":"Login here",
+		"back_to_home":"Back to home",
+		"metadata":{
+			"title": "Register - DRAWING WITH AI",
+			"description": "DRAWING WITH AI"
+		}
+	},
+	"home":{
+		"title":"Home | Drawing with AI"
+	},
+	"header":{
+		"name": "Drawing with AI"
+	},
+	"footer": {
+		"name": "DRAWING WITH AI",
+		"content_name": "Saigon International University",
+		"content_address": "8C - 18 Tong Huu Dinh, Thao Dien Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
+		"home": "Home",
+		"judging_panel": "Judging Panel",
+		"competition_rules": "Competition Rules",
+		"submission_guidelines": "Submission Guidelines",
+		"registration_guidelines": "Registration Guidelines",
+		"contact": "Contact",
+		"contact_us": "Contact Us",
+		"contact_us_time": "From 7:00 AM - 5:00 PM (Monday to Saturday) (GMT +7)",
+		"contact_us_phone": "(+84)768471589",
+		"contact_us_email": "aiart@siu.edu.vn",
+		"contact_us_fb":"Fanpage - SIU AILab",
+		"copyright":"Copyright @2023 SIU. All right reserved."
+	  },
+	"navbar" :{
+		"login": "Login",
+		"logout": "Logout",
+		"register": "Register"
+	},
+	"navbar_item":{
+		"home": "Home",
+		"judging_panel": "Judging Panel",
+		"competition_rules": "Competition Rules",
+		"guidelines": "Guidelines",
+		"submission_guidelines": "Submission Guidelines",
+		"registration_guidelines":"Registration Guidelines",
+		"contact": "Contact",
+		"login": "Login",
+		"categories":"Categories"
+	},
+	"section1":{
+		"heading":"Drawing with AI",
+		"content":"This unique contest is tailored exclusively for high school students, providing an exciting opportunity to engage with AI technology in an area of art. We encourage participants to unleash their creativity and showcase their talents through this innovative fusion of art and AI. Welcome to the first season of the THE SIU AI ART CONTEST!"
+	},
+	"section2":{
+		"heading":"For the first time, draw with AI contest is exclusively open to high school students in Viet Nam."
+	},
+	"section3": {
+		"heading_title": "Prizes pool",
+		"item1": {
+		  "title": "1 FIRST PRIZE",
+		  "vnd":"5 million VND",
+		  "content": "SIU Scholarship + Certificate of Commendation"
+		},
+		"item2": {
+		  "title": "1 SECOND PRIZE",
+		  "vnd": "3 million VND ",
+		  "content":"SIU Scholarship + Certificate of Commendation"
+		},
+		"item3": {
+		  "title": "3 THIRD PRIZES",
+		  "vnd": "1 million VND",
+		  "content": "SIU Scholarship + Certificate of Commendation"
+		},
+		"item4": {
+		  "title": "5 CONSOLATION PRIZES",
+		  "vnd": "500,000 VND",
+		  "content":"Certificate of Commendation"
+		},
+		"item5": {
+		  "title": "3 THIRD PRIZES",
+		  "vnd": "1 million VND",
+		  "content": "SIU Scholarship + Certificate of Commendation"
+		},
+		"item6": {
+		  "title": "1 VOTING AWARD",
+		  "vnd": "1 million VND",
+		  "content": "Certificate of Commendation"
+
+		},
+		"heading": "CERTIFICATE OF ACHIEVEMENT FOR ENTERING THE TOP 10 IN EACH EXAM CATEGORY"
+	},
+	"section4": {
+		"heading": "Registration Process",
+		"content": "To participate in the competition, contestants can register an ",
+		"content_link": "account here",
+		"content2": "Any inquiries, please send an email to aiart@siu.edu.vn",
+		"heading_2":"ELIGIBILITY",
+		"content3": [
+			  "Table A: High school students nationwide.",
+			  "Table B: Secondary school students nationwide."
+		]
+	},
+	"section5": {
+		"item1": {
+		  "time": "27/12/2023",
+		  "content": "Establishment of the functional committee"
+		},
+		"item2": {
+		  "time": "27/12 - 12/01/2024",
+		  "content": "Preparation for the competition"
+		},
+		"item3": {
+		  "time": "15/01/2024",
+		  "content": "Announcement of the competition"
+		},
+		"item4": {
+		  "time": "From the announcement date until 31/03/2024",
+		  "content": "Registration period"
+		},
+		"item5": {
+		  "time": "15/04/2024",
+		  "content": "Announcement of the judging panel"
+		},
+		"item6": {
+		  "time": "From 15/01/2024 until the end of the competition",
+		  "content": "Widespread communication about the competition"
+		},
+		"item7": {
+		  "time": "02/04 - 20/04/2024",
+		  "content": "Training for contestants"
+		},
+		"item8": {
+		  "time": "20/04 - 29/04/2024",
+		  "content": "Submission of preliminary round entries"
+		},
+		"item9": {
+		  "time": "30/04 - 05/05/2024",
+		  "content": "Artwork voting"
+		},
+		"item10": {
+		  "time": "30/04 - 05/05/2024",
+		  "content": "Online judging for the preliminary round"
+		},
+		"item11": {
+		  "time": "11/05/2024 (Saturday)",
+		  "content": "Judging panel meeting to finalize preliminary round results"
+		},
+		"item12": {
+		  "time": "14/05/2024",
+		  "content": "Announcement of preliminary round results"
+		},
+		"item13": {
+		  "time": "26/05/2024 (Sunday)",
+		  "content": "Final round competition"
+		},
+		"item14": {
+		  "time": "31/5/2024 (Friday)",
+		  "content": "Art exhibition"
+		},
+		"heading": "Competition Timeline"
+	  }
+,	  
+	"section6": {
+		"heading": "About Saigon International University",
+		"content1": "Saigon International University (SIU), a private international university, was established by the decision of the Prime Minister in 2007. SIU is a member of leading global education quality accreditation organizations in the United States: the International Accreditation Council for Business Education (IACBE) and the Association to Advance Collegiate Schools of Business (AACSB). SIU is recognized for international accreditation in the field of Business by IACBE, achieving educational facility accreditation, and accreditation in two fields: Computer Science and English Language, according to the standards of the Ministry of Education & Training.",
+		"content2": "SIU has the vision to be the leading international university in Vietnam following global education trends. Therefore, the university places great importance on promoting cooperative relationships with prestigious universities worldwide. Currently, SIU has established partnerships with universities such as Suffolk University in Boston, USA; Truman State University in Missouri, USA; Ritsumeikan University and Asia Pacific University in Japan; Buckinghamshire New University in the United Kingdom; Huddersfield University in the United Kingdom; Dankook University in South Korea, and more."
+	},
+	"contact_page":{
+		"title":"Contact | Drawing with AI",
+		"heading":"CONTACT US"
+	},
+	"judging_panel_page":{
+		"title":"Judging panel | Drawing with AI",
+		"heading":"JUDGING PANEL"
+	},
+	"register_guidelines_page":{
+		"metadata":{
+			"title":"Registration Guidelines | Drawing with AI",
+			"description":"Registration Guidelines - Drawing with AI"
+		},
+		"h1":"REGISTRATION GUIDELINES",
+		"step1": {
+			"heading": "1. How to Register an Account",
+			"sub": "To register an account for the 'Draw with AI' competition, follow these steps:",
+			"content": [
+				{
+				  "link": "Step 1: Access the competition's website",
+				  "sub_link": "The SIU AI Art Contest"
+				},
+				{
+				  "link": "Step 2: Click on the 'Register' button on the website as shown in Figure 1."
+				}
+			  ],
+
+			"image": "GL1",
+			"sub_image": "Image 1. Register an account"
+		  },
+		  "step2": {
+			"content": [
+				"Step 3: After completing Step 2, a registration form will appear. Enter the necessary information and click the 'Register' button as shown in Image 2 to complete the registration."
+			],
+			"image": "GL2",
+			"sub_image": "Image 2. Fill in the information to register an account"
+		  },
+		  "step3": {
+			"content": [
+				"Step 4: After successful registration, proceed to log in to confirm the successful registration by clicking the 'Login' button as shown in Image 3."
+			],
+			"image": "GL3",
+			"sub_image": "Image 3. Log in to the account"
+		  }
+	},
+	"submission_guidelines_page": {
+		"metadata": {
+		  "title": "Submission Guidelines | Drawing with AI",
+		  "description": "Submission Guidelines - Drawing with AI"
+		},
+		"h1": "SUBMISSION GUIDELINES",
+		"step1": {
+		  "content": [
+			"Step 1: Access the website and log in to your account by clicking the 'Login' button as shown in Image 1."
+		  ],
+		  "sub_image": "Image 1. Log in to the account"
+		},
+		"step2": {
+		  "content": [
+			"Step 2: Click on the 'Dashboard' button and then select 'Submit' to display the submission interface as shown in Image 2."
+		  ],
+		  "sub_image": "Image 2. Submission interface"
+		},
+		"step3": {
+		  "content": [
+			"Step 3: Choose the 'Submit New' button (Image 2) to submit your artwork. After clicking the button, the submission interface will appear as shown in Image 3."
+		  ],
+		  "sub_image": "Image 3. Submission interface"
+		},
+		"step4": {
+		  "content": [
+			"Step 4: In the submission interface, contestants enter the 'Content' and 'Prompt' of the artwork and simultaneously upload the image file of the painting to the website. After these actions, contestants click the 'Submit' button to submit their entry."
+		  ],
+		  "sub_image": "Image 4. Submission information"
+		},
+		"step5": {
+		  "content": [
+			"Step 5: After submitting the entry, the website's submission interface will transition as shown in Image 5."
+		  ],
+		  "sub_image": "Image 5. Interface after submission"
+		}
+	}
+
+}
